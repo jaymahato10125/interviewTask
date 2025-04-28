@@ -4,17 +4,17 @@ import { gsap } from 'gsap';
 
 const keyFindings = [
   {
-    image: '/images/1.png',
+    image: './images/1.png',
     heading: 'Tracking and measuring PR efforts',
     text: 'The importance of tracking and measuring PR efforts has surged, with <span class="percentage" data-start="0" data-end="38">0%</span> of professionals prioritizing this in 2024, up from just <span class="percentage" data-start="0" data-end="23">0%</span> in 2022.'
   },
   {
-    image: '/images/2.png',
+    image: './images/2.png',
     heading: 'Budget constraints',
     text: 'Budget constraints remain the top cause for not using PR tools, affecting 68% of professionals in 2024, with sole practitioner particularly impacted at 71%.'
   },
   {
-    image: '/images/3.png',
+    image: './images/3.png',
     heading: 'Effective outreach',
     text: 'The use of regular email services for pitches has plummeted from 74% in 2022 to 50% in 2024, signaling a move towards specialized tools for more effective outreach.'
   },
